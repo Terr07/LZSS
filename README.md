@@ -1,5 +1,6 @@
 ## Header only LZSS implementation
 
+![Static Badge](https://img.shields.io/badge/version-0.0.0-red)
 
 #### Dependencies
   - c++17 
